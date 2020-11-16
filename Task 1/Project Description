@@ -1,0 +1,8 @@
+Objective: To classify the species using Decision tree
+
+Tool Used: Python
+Libraries Used: Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
+EDA done to see how the attributes are related. 
+Feature scaling done using StandardScaler
+Algorithm used: Decision Tree Classifier
+Achieved an accuracy of 90.0% and 5 fold cross validation done.
